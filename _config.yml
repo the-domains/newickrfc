@@ -1,0 +1,14 @@
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.2989702149604223
+  lightness: 0.6404070995880625
+  rhythmicContrast: 0.360407443752805
+  saturation: 0.4274867002535665
+layout_spectrum: 0.595766928788373
+name: newickrfc
+typography_spectrum: 0.1616501575440965
