@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[newickrfc]]></title>
+        <description><![CDATA[newickrfc]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 19 Aug 2016 06:19:41 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Newick Rugby Football Club]]></title>
+            <description><![CDATA[<article><h1>Newick Rugby Football Club</h1><p>Newick Rugby Football Club Rugby Union club - Sussex Shepherd Neame Leagues - Sussex Division 2 (Canterbury Jack)</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/470d5ee1224c15718d4ac66d5232c9be/noop?input=http%3A%2F%2Fd2dzjyo4yc2sta.cloudfront.net%2F%3Furl%3Dimages.pitchero.com%252Fclubs%252F22865%252F092215155043.jpg%26w%3D400%26h%3D400%26t%3Dfit%26q%3D85"></article>]]></description>
+            <link>http://www.pitchero.com/clubs/newickrfc/</link>
+            <guid isPermaLink="false">f94f80a9-2c64-48a7-bc6a-7c7cf3e162d5</guid>
+            <pubDate>Fri, 19 Aug 2016 06:19:40 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
